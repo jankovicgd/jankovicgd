@@ -26,3 +26,13 @@ My name’s Nikola and I’m a geospatial IT engineer working with Earth Observa
 - 🔭 I’m currently working on [View Server](https://gitlab.eox.at/vs) and data engineering pipelines within EOX
 - 🌱 I’m currently learning about data engineering practices, ETL and [Argo workflow](https://argoproj.github.io/)
 - 💬 Ask me about python, GIS, docker, kubernetes
+
+### Credentials
+
+- [99% Codingame python3](https://www.codingame.com/certification/WgoRDPVhZow8eLbyqIoXZA)
+- [Nginx fundamentals](https://www.udemy.com/certificate/UC-7QGLH7GP/)
+- [Rest APIs](https://www.udemy.com/certificate/UC-I5P13GNB/)
+- [Data Science & ML](https://www.udemy.com/certificate/UC-F2S3DNYG/)
+- [Web Dev Bootcamp](https://www.udemy.com/certificate/UC-L9X0S3A1/)
+- [Python](https://www.udemy.com/certificate/UC-FUH20ZDU/)
+
