@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 My name’s Nikola and I’m a geospatial IT engineer working with Earth Observation data. Next to backend and data development I also have experience with kubernetes/docker configuration. I have worked at a number of companies gaining teamwork, organisation and leadership skills.
 
 [My CV is available here](https://github.com/jankovicgd/cv/blob/master/europasscv.pdf)
+
+- 🔭 I’m currently working on [View Server](https://gitlab.eox.at/vs) and data engineering pipelines within EOX
