@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Website](https://img.shields.io/badge/-Website-565CD8)](https://njankovic.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/jankovicgd)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/jankovicgd/)
+
+My name’s Nikola and I’m a geospatial IT engineer working with Earth Observation data. Next to backend and data development I also have experience with kubernetes/docker configuration. I have worked at a number of companies gaining teamwork, organisation and leadership skills.
