@@ -27,6 +27,11 @@ My name’s Nikola and I’m a geospatial IT engineer working with Earth Observa
 - 🌱 I’m currently learning about data engineering practices, ETL and [Argo workflow](https://argoproj.github.io/)
 - 💬 Ask me about python, GIS, docker, kubernetes
 
+### Projects
+
+- [Austrian Data Cube](https://acube.eodc.eu/)
+- [Intersections of our world](https://intersections.geo.tuwien.ac.at)
+
 ### Credentials
 
 - [99% Codingame python3](https://www.codingame.com/certification/WgoRDPVhZow8eLbyqIoXZA)
