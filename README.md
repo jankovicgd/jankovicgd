@@ -32,6 +32,8 @@ My name’s Nikola and I’m a geospatial IT engineer working with Earth Observa
 - [Austrian Data Cube](https://acube.eodc.eu/)
 - [Intersections of our world](https://intersections.geo.tuwien.ac.at)
 - [Geoinformation group wordpress](https://geoinfo.geo.tuwien.ac.at/)
+- [View Server](https://gitlab.eox.at/vs)
+- [Area monitoring service](https://agri-ogd-at-public.demo.hub.eox.at/)
 
 ### Credentials
 
