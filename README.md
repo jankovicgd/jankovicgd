@@ -34,6 +34,7 @@ My name’s Nikola and I’m a geospatial IT engineer working with Earth Observa
 - [Geoinformation group wordpress](https://geoinfo.geo.tuwien.ac.at/)
 - [View Server](https://gitlab.eox.at/vs)
 - [Agricultural area monitoring service](https://agri-ogd-at-public.demo.hub.eox.at/)
+- [OpenEO](https://openeo.org)
 
 ### Credentials
 
