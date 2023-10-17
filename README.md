@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/jankovic_gd)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/jankovicgd/)
 
-My name’s Nikola and I’m a geospatial IT engineer working with Earth Observation data. Next to python backend and data engineering I also have experience with docker & kubernetes. I have worked at a number of companies gaining teamwork, organisation and leadership skills.
+My name’s Nikola and I’m a geospatial IT engineer working with Earth Observation data. Next to python backend and data engineering I also have experience with docker & kubernetes. I have worked at a number of companies gaining valuable technical skills in development and system design as well as teamwork, organisation and leadership skills.
 
 [My CV is available here](https://github.com/jankovicgd/cv/blob/master/europasscv.pdf)
 
