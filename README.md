@@ -48,3 +48,9 @@ My name’s Nikola and I’m a geospatial IT engineer working with Earth Observa
 [![Foundation](./fitsm-foundation.png)](https://www.credly.com/badges/532fda78-0c97-4102-88b5-8d7b45faf3d9/public_url)
 [![Advanced1](./fitsm-advanced-service-planning-and-delivery.png)](https://www.credly.com/badges/3a290e19-6a01-4155-8e80-414b6d8c09e8/public_url)
 [![Advanced2](./fitsm-advanced-service-operation-and-control.png)](https://www.credly.com/badges/eb06122f-54c8-45c6-9153-fedc4dadfb95/public_url)
+
+### Github Stats
+
+[![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankovicgd&theme=dark)](https://github.com/jankovicgd/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankovicgd&hide=Jupyter%20Notebook&layout=compact&theme=dark)](https://github.com/jankovicgd/)
+
