@@ -54,3 +54,4 @@ My name’s Nikola and I’m a geospatial IT engineer working with Earth Observa
 [![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=jankovicgd&theme=dark)](https://github.com/jankovicgd/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankovicgd&hide=Jupyter%20Notebook&layout=compact&theme=dark)](https://github.com/jankovicgd/)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/67404cb05434bf319a304dd3?variant=dark)](https://roadmap.sh)
