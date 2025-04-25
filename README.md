@@ -22,8 +22,8 @@ My name’s Nikola and I’m a geospatial IT engineer working with Earth Observa
 
 [My CV is available here](https://github.com/jankovicgd/cv/blob/master/europasscv.pdf)
 
-- 🔭 I’m currently working on [View Server](https://gitlab.eox.at/vs) and data engineering pipelines within EOX
-- 🌱 I’m currently learning about data engineering practices, ETL and several orchestration platforms
+- 🔭 I’m currently working on [View Server](https://gitlab.eox.at/vs) and [eodm](https://github.com/geopython/eodm)
+- 🌱 I’m currently learning about data engineering, ETL and orchestration
 - 💬 Ask me about python, GIS, docker, kubernetes
 
 ### Projects
